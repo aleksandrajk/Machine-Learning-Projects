@@ -27,8 +27,6 @@ To run this project, open the Jupyter Notebook file `dogs_indefication.ipynb` an
 ## Results
 After training the model on the full data training set and validating it on the validation set, we achieved an accuracy of over 90% on the test set.
 
-<img width="933" alt="kaggle_set1" src="https://user-images.githubusercontent.com/55165756/231541121-b7fcd4f7-571c-4401-961d-e2b012511cbd.png">
-
 <img width="887" alt="kaggle_set2" src="https://user-images.githubusercontent.com/55165756/231541139-cf01d599-d871-4d38-a13b-8b645c0934ef.png">
 
 
