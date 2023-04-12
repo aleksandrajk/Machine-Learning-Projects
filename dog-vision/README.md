@@ -22,7 +22,7 @@ __OR__
 There are no additional Python package requirements for this project as Google Colaboratory comes pre-installed with most of the necessary libraries. However, if you need any additional packages, you can install them using the `!pip install` command in the notebook.
 
 ## Usage
-To run this project, open the Jupyter Notebook file dogs_indefication.ipynb and follow the instructions.
+To run this project, open the Jupyter Notebook file `dogs_indefication.ipynb` and follow the instructions.
 
 ## Results
 After training the model on the full data training set and validating it on the validation set, we achieved an accuracy of over 90% on the test set.
